@@ -18,7 +18,7 @@ This project demonstrates strong foundational knowledge of Java web development 
 - JSP
 - EL (Expression Language)
 - JSTL
-- Oracle / MySQL
+- Oracle 
 - Apache Tomcat
 
 ---
